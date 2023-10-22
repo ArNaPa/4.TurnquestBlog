@@ -1,0 +1,12 @@
+pip install virtualenv
+virtualenv turnquestblog_env
+turnquestblog_env\Scripts\activate
+//deactivate
+pip install django
+django-admin startproject turnquestblog
+cd turnquestblog
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+//python manage.py stopserver
+python manage.py startapp conversor
