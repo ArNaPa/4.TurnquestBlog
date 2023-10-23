@@ -1,0 +1,15 @@
+1. Instalar python
+2. Instalar virtualenv
+3. Crear un entorno virtual
+4. Activar el entorno virtual
+5. Instalar Django dentro del entorno virtual
+6. Crear un Proyecto
+7. Inicializar la base de Datos
+8. Crear superusuario
+9. Correr el servidor (estandart y admin)
+10. Detener el servidor
+11. Crear una Aplicacion
+12. Cargar la configuracion de la aplicacion en django
+13. Crear archivo html
+14. Renderizar el archivo html desde view de la aplicacion
+15. Cargar la vista de la aplicacion desde la url del proyecto

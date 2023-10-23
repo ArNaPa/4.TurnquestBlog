@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'conversor.apps.ConversorConfig',            #Permite a Django Saber que existe esta aplicacion
 ]
 
 MIDDLEWARE = [
